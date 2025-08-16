@@ -100,6 +100,10 @@ rag-fastapi-project/
 6. **Start the Streamlit app (in another terminal):**
    ```bash
    streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+
+
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ba670a8e-c2ea-4e1d-b143-163a2caedffb" />
+
    ```
 
 ## 🔧 Configuration
@@ -288,5 +292,6 @@ If you encounter any issues or have questions:
 - [Chroma](https://www.trychroma.com/) for vector storage
 
 ---
+
 
 **Happy Chatting!** 🤖✨
