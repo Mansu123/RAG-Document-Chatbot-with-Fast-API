@@ -102,9 +102,12 @@ rag-fastapi-project/
    streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0
 
 
-   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ba670a8e-c2ea-4e1d-b143-163a2caedffb" />
-
+  
    ```
+
+
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75f72240-6fc1-49cc-ae19-53f332e0812d" />
+
 
 ## 🔧 Configuration
 
@@ -295,3 +298,4 @@ If you encounter any issues or have questions:
 
 
 **Happy Chatting!** 🤖✨
+
